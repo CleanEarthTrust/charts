@@ -13,7 +13,7 @@ keywords:
 - application
 - php
 sources:
-- https://github.com/bitnami/bitnami-docker-mediawiki
+- https://github.com/CleanEarthTrust/bitnami-docker-mediawiki
 maintainers:
 - name: Bitnami
   email: containers@bitnami.com
